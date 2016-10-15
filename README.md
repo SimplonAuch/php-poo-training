@@ -1,5 +1,8 @@
 # POO
-> Before, view [PDO](https://github.com/simplonco/pdo-training)
+>_[Training](https://github.com/simplonco/training) / [PHP](https://github.com/simplonco/php-training) / PDO_
+
+**POO** : Programmation orientée objets
+> Before, view [PDO](https://github.com/simplonco/pdo-training) !
 
 ## Training
 * [POO I](https://github.com/simplonco/poo-training/blob/master/training/Tutoriel-PHP-Introduction-%C3%A0-la-POO.pdf) _Introduction POO_
