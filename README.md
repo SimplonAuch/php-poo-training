@@ -1,4 +1,4 @@
-# POO
+# PHP POO
 >_[Training](https://github.com/simplonco/training) / [PHP](https://github.com/simplonco/php-training) / PDO_
 
 **OOP** : Object-oriented programming :gb:
