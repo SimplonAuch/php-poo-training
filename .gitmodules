@@ -1,0 +1,3 @@
+[submodule "pokemon-uml"]
+	path = exercises/pokemon-uml
+	url = https://github.com/simplonco/pokemon-uml
